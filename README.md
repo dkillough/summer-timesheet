@@ -1,6 +1,6 @@
 # timesheet
 
-6/18..6/21 - Update Website
+6/18 .. 6/21 - Update Website
 
 6/22 - First day of work
 
