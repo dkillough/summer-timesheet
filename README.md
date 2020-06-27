@@ -7,3 +7,5 @@
 6/23 - Remake website using HUGO or Wix ???
 
 6/26 - Work: Title UI changes @ Developer Portal
+
+6/27 - President's Award proposal edits zz
