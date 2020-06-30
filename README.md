@@ -9,3 +9,7 @@
 6/26 - Work: Title UI changes @ Developer Portal
 
 6/27 - President's Award proposal edits zz
+
+6/28 - def thought about this one 
+
+6/29 - work
