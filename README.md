@@ -20,7 +20,7 @@
 
 
 ## July
-7/1 .. 7/2 - Work: Collaborator view UI
+7/1 .. 7/3 - Work: Collaborator view UI
 
 
 
