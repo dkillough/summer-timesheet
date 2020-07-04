@@ -22,7 +22,7 @@
 ## July
 7/1 .. 7/3 - Work: Collaborator view UI
 
-
+7/4 - President's award proposal, setting up Slack
 
 
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
