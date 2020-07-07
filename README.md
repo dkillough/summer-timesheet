@@ -24,7 +24,8 @@
 
 7/4 - President's award proposal: setting up Slack, **8th wall AR app demo**
 
-7/6 - Work: Credentials view UI
+7/6 .. 7/7 - Work: Credentials view UI
+
 
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
