@@ -26,7 +26,7 @@
 
 7/6 .. 7/8 - Work: Credentials view UI
 
-7/9 - Work: Credentials View UI
+7/9 - Work: Credentials View UI, Update header (bug fixes)
 
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
