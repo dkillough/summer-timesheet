@@ -26,6 +26,8 @@
 
 7/6 .. 7/8 - Work: Credentials view UI
 
+7/9 - Work: Credentials View UI
+
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
