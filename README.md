@@ -30,6 +30,10 @@
 
 7/10 - Work: Finish credentials view, resolve header ticket fix, Blog post on UI enhancements
 
+7/11 - Birthday ! 
+
+7/12 - Research proposal draft ready for faculty review
+
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
