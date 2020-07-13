@@ -34,7 +34,7 @@
 
 7/12 - Research proposal draft ready for faculty review
 
-7/13 - Work: UI changes pushed to Matt for UI review
+7/13 - Work: UI changes pushed to Matt for UI/UX review
 
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
