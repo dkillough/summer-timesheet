@@ -38,7 +38,7 @@
 
 7/14 - Work: Cred testing
 
-7/15 - Work: Cred, Collab testing 
+7/15 - Work: Cred, Collab testing, L&L (sales)
 
 7/16 - Work: Cred, Collab, API Products testing
 
