@@ -38,6 +38,8 @@
 
 7/14 - Work: Cred testing
 
+7/15 - Work: Cred, Collab testing 
+
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
