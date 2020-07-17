@@ -42,6 +42,8 @@
 
 7/16 - Work: Cred, Collab, API Products testing
 
+7/17 - Work: Resolve API Products testing, send to Tyler for review
+
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
