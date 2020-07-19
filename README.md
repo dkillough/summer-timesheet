@@ -46,6 +46,8 @@
 
 7/18 - UT Admissions consultation
 
+7/19 - 6 consecutive hours of proposal edits (at least) followed by Apple tech support zzzzz
+
 7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
