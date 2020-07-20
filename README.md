@@ -1,4 +1,4 @@
-# timesheet
+# summer timesheet/work log
 
 6/18 .. 6/21 - Update Website
 
