@@ -8,7 +8,7 @@
 
 6/23 .. 6/25 - Learning React.js
 
-6/26 - Work: Title UI changes @ Developer Portal
+6/26 - Work: Title UI changes @ [Developer Portal](https://dev-portal.medwise.com)
 
 6/27 - President's Award proposal edits zz
 
@@ -25,5 +25,6 @@
 
 
 
+7/20 - UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
