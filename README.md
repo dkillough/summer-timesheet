@@ -1,5 +1,7 @@
 # summer timesheet/work log
 
+
+## June
 6/18 .. 6/21 - Update Website
 
 6/22 - First day of work
@@ -15,3 +17,13 @@
 6/29 - Work: API Product Card UI Improvements
 
 6/30 - Work: Finished API Products UI
+
+
+## July
+7/1 - 
+
+
+
+
+
+7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
