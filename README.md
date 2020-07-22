@@ -1,5 +1,5 @@
 # summer timesheet/work log
-
+*most work commits (in terms of content itself) was done on the CareKinesis GitLab (git.carekinesis.net) and is for internal use.*
 
 ## June
 6/18 .. 6/21 - Update Website
