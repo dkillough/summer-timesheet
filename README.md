@@ -51,3 +51,5 @@
 7/20 - Work: UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
 7/21 - Work: Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
+
+7/22 - Work: Mixpanel implementation plan (filling out chart), L&L (TRHCU)
