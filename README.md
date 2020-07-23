@@ -35,7 +35,7 @@
 
 7/12 - Research proposal draft ready for faculty review
 
-7/13 - *Work:* UI changes pushed to Matt for UI/UX review, begin testing
+7/13 - *Work:* UI changes pushed to Matt for UI/UX review, begin testing (pillars: 1. Component doesn't crash 2. Renders the text that it's supposed to 3. Matches the screenshot)
 
 7/14 - *Work:* Cred testing
 
@@ -51,6 +51,8 @@
 
 7/20 - *Work:* UI Changes released! Portal v1.6.0 ;; begin Mixpanel 
 
-7/21 - *Work:* Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services)
+7/21 - *Work:* Tix change (internally) from EHEALTH (MASS/CST) to PSERVE (Platform Services), Mixpanel info/starting implementation plan
 
-7/22 - *Work:* Mixpanel implementation plan (filling out chart), L&L (TRHCU)
+7/22 - *Work:* Mixpanel implementation plan (skeleton code), L&L (TRHCU)
+
+7/23 - *Work:* Finalizing implementation plan (filling out chart)
