@@ -56,3 +56,5 @@
 7/22 - *Work:* Mixpanel implementation plan (skeleton code), L&L (TRHCU)
 
 7/23 - *Work:* Finalizing implementation plan (filling out chart)
+
+7/24 - *Work:* Implementing implementation plan events (completing chart); adding relative path column for future reference
