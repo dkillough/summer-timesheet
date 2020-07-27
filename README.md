@@ -57,4 +57,9 @@
 
 7/23 - *Work:* Finalizing implementation plan (filling out chart)
 
-7/24 - *Work:* Implementing implementation plan events (completing chart); adding relative path column for future reference
+7/24 - *Work:* Implementing implementation plan events (completing chart); adding relative path column for future reference. | Longhorn Gaming v2.13.0 release 2pm CT
+
+7/25 - Active day; mowed lawn/rode skateboard/went to beach
+
+7/26 - Not-so-active day; nap -> LG stuff. 
+
