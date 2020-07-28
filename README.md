@@ -61,6 +61,8 @@
 
 7/25 - Active day; mowed lawn/rode skateboard/went to beach
 
-7/26 - Not-so-active day; nap -> LG stuff. 
+7/26 - Not-so-active day; nap -> LG logistics & v2.13.1 patch. 
 
 7/27 - *Work:* \*actually Finalized implementation plan -- left @2pm took mom to ER. She's doing OK 3 hrs later. | Longhorn Gaming budget proposal completed + small edits on blender project. 
+
+7/28 - *Work:* Testing and bug fixes on Mixpanel. Onto something new?
