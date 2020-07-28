@@ -63,3 +63,4 @@
 
 7/26 - Not-so-active day; nap -> LG stuff. 
 
+7/27 - *Work:* \*actually Finalized implementation plan -- left @2pm took mom to ER. She's doing OK 3 hrs later. | Longhorn Gaming budget proposal completed + small edits on blender project. 
