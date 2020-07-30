@@ -66,3 +66,7 @@
 7/27 - *Work:* \*actually Finalized implementation plan -- left @2pm took mom to ER. She's doing OK 3 hrs later. | Longhorn Gaming budget proposal completed + small edits on blender project. 
 
 7/28 - *Work:* Testing and bug fixes on Mixpanel. Onto something new?
+
+7/29 - *Work:* Starting Pub/Sub on GCP ! [some](https://cloud.google.com/sdk/docs/quickstart-macos)_[docs](https://www.youtube.com/playlist?list=PLIivdWyY5sqKwVLe4BLJ-vlh9r9zCdOse) + [python ref](https://cloud.google.com/python/setup)
+
+7/30 - *Work:* Pub/Sub testing; Last MASS standup?? Q.Q
