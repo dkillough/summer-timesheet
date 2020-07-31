@@ -70,3 +70,5 @@
 7/29 - *Work:* Starting Pub/Sub on GCP ! [some](https://cloud.google.com/sdk/docs/quickstart-macos)_[docs](https://www.youtube.com/playlist?list=PLIivdWyY5sqKwVLe4BLJ-vlh9r9zCdOse) + [python ref](https://cloud.google.com/python/setup)
 
 7/30 - *Work:* Pub/Sub testing; Last MASS standup?? Q.Q
+
+7/31 - *Work:* [apache beam demo thing](https://github.com/dkillough/ApacheBeamDemo)
