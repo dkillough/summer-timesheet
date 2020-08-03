@@ -72,3 +72,10 @@
 7/30 - *Work:* Pub/Sub testing; Last MASS standup?? Q.Q
 
 7/31 - *Work:* [apache beam demo thing](https://github.com/dkillough/ApacheBeamDemo)
+
+## August 
+8/1 - LG v2.14.0
+
+8/2 - Blender!
+
+8/3 - *Work:* Java sorting testing program within apache beam demo 
