@@ -76,6 +76,12 @@
 ## August 
 8/1 - LG v2.14.0
 
-8/2 - Blender!
+8/2 - [Blender Donut!](https://github.com/dkillough/BlenderDonut)
 
 8/3 - *Work:* Java sorting testing program within apache beam demo 
+
+8/4..8/5 - *Work:* [apache demo](https://github.com/dkillough/ApacheBeamDemo) n' [pipelining](https://github.com/dkillough/pipeliningTM); check commits for timestamps
+
+8/6 - *Work:* Shadowing FHIR store project w [Trip](https://github.com/tripott) / [Kayla](https://github.com/kaylakantola) / Dereck Curry / Michael Langley
+
+8/7 - Moving back to ATX!
