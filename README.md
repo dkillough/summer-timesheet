@@ -84,4 +84,5 @@
 
 8/6 - *Work:* Shadowing FHIR store project w [Trip](https://github.com/tripott) / [Kayla](https://github.com/kaylakantola) / Dereck Curry / Michael Langley
 
-8/7 - Moving back to ATX!
+8/7..8/9 - Moving back to ATX!
+
