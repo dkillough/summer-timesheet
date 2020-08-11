@@ -78,11 +78,14 @@
 
 8/2 - [Blender Donut!](https://github.com/dkillough/BlenderDonut)
 
-8/3 - *Work:* Java sorting testing program within apache beam demo 
+8/3 - *Work:* Java sorting testing program within apache beam demo. Attended webinar on Mob Programming.
 
 8/4..8/5 - *Work:* [apache demo](https://github.com/dkillough/ApacheBeamDemo) n' [pipelining](https://github.com/dkillough/pipeliningTM); check commits for timestamps
 
-8/6 - *Work:* Shadowing FHIR store project w [Trip](https://github.com/tripott) / [Kayla](https://github.com/kaylakantola) / Dereck Curry / Michael Langley
+8/6 - *Work:* Shadowing FHIR (patient information spec) store project w [Trip](https://github.com/tripott) / [Kayla](https://github.com/kaylakantola) / Dereck Curry / Michael Langley
 
 8/7..8/9 - Moving back to ATX!
 
+8/10 - *Work:* Mob programming on gcp hack project w/ Trip Dereck Kayla Michael
+
+8/11 - *Work:* Big pipeline energy (mobbing primarily w/ Trip and Michael today; looking through Kayla's pipelining project to get a better understanding of the tech.) Continuing work from yesterday on Node.js app to take input from a subscription and write message properties to a .json file for Michael later review
